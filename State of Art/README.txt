@@ -1,12 +1,3 @@
-En esta carpeta colocaremos todo el survey que hagamos.
-Que tu crees Marco, podemos:
-
-Crear una carpeta por cada tecnica, por ejemplo
-
-Una carpeta llamada CNN que por cada paper que emplee CNN contenga otra carpeta con el paper si pudimos descargarlo, su resumen, asi como algun otro archivo que sea necesario para ese paper
-Una carpeta llamada RNN ... y asi
-
-
-O podemos
-
-Crear una carpeta para cada paper, lo cual tendria el inconveniente de no tener los papers agrupados por tecnicas pero bueno, para eso ya esta la spreadsheet no?. Que prefieres?
+En esta carpeta se encontrara todo el survey que realicemos
+Tendremos carpetas nombradas por tecnicas de ML, por ejemplo, una carpeta para los papers que centran su solucion del problema en SVM, otra para aquellos que centran su solucion en KNN, otra para Redes Neuronales; asi como una carpeta Mixta, para aquellos papers que intentan diferentes enfoques.
+En cada una de estas carpetas tendremos a su vez un folder por cada paper, con el pdf del paper si logramos descargarlo, ademas de otros archivos o incluso codigo que sean relevantes al paper en cuestion.
