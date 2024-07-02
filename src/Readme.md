@@ -1,0 +1,8 @@
+En el notebook airport-saturation-data, (al cual por estar tomado de Kaggle dememos cambiarle las direcciones de los archivos), se precomputa para cada aeropuerto cuantos aviones aterrizan en el y cuantos aviones despegan de el en cada rango de 5 minutos.
+La salida de ese notebook consiste en dos archivos en formato pickle, que contienen a los diccionarios en cuestion, uno para los departures y uno para los arrivals. Estos datos seran necesarios en lo adelante.
+
+### Marcos
+Papa, la talla es jj, q aguaje,<br>
+Na, lo que hace falta es que corras el notebook, generes los .pickle, crees otro notebook donde descargues los pickle. En cada diccionario encontraras para cada aeropuerto un diccionario, el cual dice, para cada instante de tiempo cuantos aviones aterrizaron o despegaron (en dependencia del archivo que sea) en ese instante. Los instantes que no aparecen es porque no se movio ningun avion.<br>
+Tu pincha es, crear en ese nuevo notebook que hagas un Modelo con Prophet que sea capaz de predecir la cantidad de aviones que aterrizaran o despegaran de los aeropuertos. Y bueno, mra a ver si puedes hacerlo formalito, picar la data en dataset de entrenamiento y de prueba, mirar la eficiencia y demas.<br>
+Mas adelante en el proyecto esos datos de la eficiencia seran necesarios cuando hagamos un estudio acerca de si es mejor usar el modelo de prophet para predecir los futuros valores de saturacion, o si es mejor atenernos a usar los delay que nosotros mismos calculemos. Llamame cualquier cosa<br>
