@@ -1,0 +1,4 @@
+Debido a la conectividad del sistema de aviación, los retrasos en los vuelos también presentan correlaciones espacio-temporales complejas.
+Para esto se dispone de una arquitectura de aprendizaje profundo CNN-LSTM-Random Forest para la extracción de correlaciones espacio temporales.
+Esto consta de una arquitectura de red neuronal convolucional (CNN) para las correlaciones espaciales y una arquitectura de memoria a largo plazo (LSTM) para capturar las correlaciones temporales. Posteriormente se fusionan con características externas como entradas del random forest.
+Los resultados muestran que la precisión del modelo CNN-LSTM alcanza el 92,39%. Para las muestras puntuales, aproximadamente el 91% están correctamente identificadas; para las muestras retrasadas, la precisión de la clasificación alcanza el 84% .
