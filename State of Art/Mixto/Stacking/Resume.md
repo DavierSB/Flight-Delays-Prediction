@@ -1,6 +1,0 @@
-En este estudio, para la predicción del retraso de vuelos se se construye un modelo de clasificación basado en Stacking y se diseñan experimentos para verificar la estabilidad de este. Además se introduce el algoritmo SMOTE para procesar desequilibrios en los conjuntos de datos utilizados, y el algoritmo de Boruta se utiliza para seleccionar características de entrada.
-Al desarrollar técnicas de aprendizaje automático la mayoría de los académicos utilizarán múltiples algoritmos  de aprendizaje automático para que entrenen en el mismo conjunto de datos a fin de obtener el algoritmo óptimo y el resultado de predicción optimo a través de la comparación de los índices de evaluación.
-El objetivo principal de este estudio es explorar la estabilidad del algoritmo de apilamiento. El apilamiento, como su nombre lo indica, es una combinación de diferentes algoritmos con diferentes algoritmos.
-Así mismo se realizó un experimento para comprobar las diferencias en los índices de evaluación al eliminar y agregar algoritmos al stacking, concluyendo que la precisión general no sufre demasiados cambios.
-En las pruebas realizadas la exactitud, la precisión, la recuperación y la puntuación F1 están todas por encima de 0,8 pero por debajo de 0,9
-Por tanto podemos decir que el apilamiento en sí mismo es un algoritmo confiable en la resolución de estos problemas.
