@@ -1,3 +1,0 @@
-En esta carpeta se encontrara todo el survey que realicemos
-Tendremos carpetas nombradas por tecnicas de ML, por ejemplo, una carpeta para los papers que centran su solucion del problema en SVM, otra para aquellos que centran su solucion en KNN, otra para Redes Neuronales; asi como una carpeta Mixta, para aquellos papers que intentan diferentes enfoques.
-En cada una de estas carpetas tendremos a su vez un folder por cada paper, con el pdf del paper si logramos descargarlo, ademas de otros archivos o incluso codigo que sean relevantes al paper en cuestion.
